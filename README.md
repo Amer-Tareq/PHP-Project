@@ -1,6 +1,6 @@
-### PHP-Project
+# PHP-Project
 ## Employee task system project 
-# small project using HTML - CSS - JS - PHP 
+### small project using HTML - CSS - JS - PHP 
 useage 
 three diffrent users: User - Admin - employee 
 How to work :
